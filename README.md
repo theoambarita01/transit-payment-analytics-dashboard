@@ -51,4 +51,4 @@ This project uses curated TTC monthly KPI data compiled from public TTC reports,
 - `dashboard_screenshot.png`
 
 ## Dashboard Preview
-![Dashboard Preview](Transit Payment Analytics Dashboard-1.png)
+![Dashboard Preview](Transit%20Payment%20Analytics%20Dashboard-1.png)
