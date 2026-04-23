@@ -1,0 +1,11 @@
+Year,Period_Number,Period_Label,Fare_Revenue_M,Revenue_Rides_M,Open_Payment_Pct,Virtual_PRESTO_Pct,Physical_PRESTO_Pct,Cash_Pct,Legacy_Fare_Pct,Notes
+2024,7,2024 P7,76.4,31.6,15.1,5.1,69.0,3.9,0.1,Fare revenue above budget; Open Payment and Virtual PRESTO continued growing
+2024,8,2024 P8,75.2,31.1,15.7,8.2,65.0,3.9,0.1,Fare revenue above budget; Open Payment and Virtual PRESTO continued growing
+2024,9,2024 P9,103.8,42.4,15.5,10.7,64.0,3.5,0.1,Fare revenue above budget; payment mix shifted further toward Open Payment and Virtual PRESTO
+2024,11,2024 P11,84.7,34.6,16.3,12.4,61.9,3.1,0.4,Fare revenue slightly above budget; Open Payment and Virtual PRESTO continued growing
+2024,12,2024 P12,99.6,40.7,16.5,12.8,59.4,3.6,0.3,Fare revenue below budget; Open Payment and Virtual PRESTO exceeded 29% of weekly ride payments
+2025,1,2025 P1,65.9,26.5,17.1,14.3,60.3,2.7,0.1,Fare revenue below budget; Open Payment and Virtual PRESTO exceeded 31% of weekly ride payments
+2025,2,2025 P2,76.2,30.7,17.5,14.2,59.3,2.8,0.1,Fare revenue below budget; snowfall affected ridership and fare revenue
+2025,3,2025 P3,99.2,40.5,17.3,15.0,59.0,2.8,0.2,Fare revenue below budget; Open Payment and Virtual PRESTO continued growing
+2025,4,2025 P4,77.4,31.4,17.9,14.9,58.0,3.0,0.2,Fare revenue below budget; Open Payment and Virtual PRESTO accounted for about one-third of weekly ride payments
+2025,5,2025 P5,78.5,32.0,18.0,15.3,56.8,2.9,0.4,Fare revenue below budget; legacy fare media rose briefly before conventional acceptance ended
